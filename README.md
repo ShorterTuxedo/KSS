@@ -17,3 +17,7 @@ Or, based on your OS, you can run the following command:
 ```
 pip3 install -r requirements.txt
 ```
+
+
+Credit to realhuman101 for the README file.
+https://github.com/realhuman101/AFFP
