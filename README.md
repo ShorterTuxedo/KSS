@@ -18,6 +18,12 @@ Or, based on your OS, you can run the following command:
 pip3 install -r requirements.txt
 ```
 
+## Datasets
+
+Training dataset:
+
+https://github.com/kyrielw24/License_Plate_Recognition/tree/main/samples/train
+
 
 Credit to realhuman101 for the README file.
 https://github.com/realhuman101/AFFP
